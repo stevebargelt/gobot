@@ -28,5 +28,3 @@ require (
 	periph.io/x/periph v3.6.2+incompatible
 	tinygo.org/x/bluetooth v0.2.0
 )
-
-replace gobot.io/x/gobot => github.com/stevebargelt/gobot latest
