@@ -48,3 +48,5 @@ require (
 	google.golang.org/protobuf v1.27.1 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c // indirect
 )
+
+replace gobot.io/x/gobot => github.com/stevebargelt/gobot v1.2.0
