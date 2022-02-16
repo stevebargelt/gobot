@@ -49,4 +49,6 @@ require (
 	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c // indirect
 )
 
-replace gobot.io/x/gobot => github.com/stevebargelt/gobot v1.3.0
+replace gobot.io/x/gobot => github.com/stevebargelt/gobot v1.4.0
+
+replace github.com/stevebargelt/gobot v1.15.0 => github.com/stevebargelt/gobot v1.4.0
